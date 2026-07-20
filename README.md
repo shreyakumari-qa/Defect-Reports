@@ -9,8 +9,11 @@ This repository contains professional sample defect reports, bug tracking templa
 | File | Description |
 
 | Bug_Report_Template.xlsx | Standard bug report template used for defect logging. |
+
 | Sample_Bugs.xlsx | Real-world sample defects from a web application. |
+
 | Severity_vs_Priority.xlsx | Examples explaining severity and priority with practical scenarios. |
+
 | Defect_Lifecycle.pdf | Standard software defect lifecycle diagram and explanation. |
 
 ---
